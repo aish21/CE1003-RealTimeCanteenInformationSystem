@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Screen1">
+    <file>Menu_Screen.jpg</file>
+  </qresource>
+</RCC>

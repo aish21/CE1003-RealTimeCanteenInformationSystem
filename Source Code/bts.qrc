@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="bt1">
+    <file>button1.png</file>
+  </qresource>
+  <qresource prefix="bt4">
+    <file>button4.png</file>
+  </qresource>
+  <qresource prefix="bt3">
+    <file>button3.png</file>
+  </qresource>
+  <qresource prefix="bt2">
+    <file>button2.png</file>
+  </qresource>
+</RCC>

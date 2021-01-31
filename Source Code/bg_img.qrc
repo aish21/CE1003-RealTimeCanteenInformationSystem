@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="bgImg">
+    <file>Sample.jpg</file>
+    <file>today_stalls_wallpaper copy.jpg</file>
+    <file>today_stalls_wallpaper.jpg</file>
+  </qresource>
+  <qresource prefix="FINAL">
+    <file>FINAL_CR_MENU.jpg</file>
+    <file>FINAL_McD_MENU_BF.jpg</file>
+    <file>FINAL_McD_MENU_reg.jpg</file>
+    <file>FINAL_MS_MENU.jpg</file>
+    <file>FINAL_NS_MENU.jpg</file>
+    <file>FINAL_WS_MENU_1.jpg</file>
+    <file>FINAL_WS_MENU_2.jpg</file>
+    <file>WS_FINAL.jpg</file>
+    <file>NS_FINAL.jpg</file>
+    <file>MS_FINAL.jpg</file>
+    <file>MCD_FINAL.jpg</file>
+    <file>CR_FINAL.jpg</file>
+    <file>CLOSED_FINAL.jpg</file>
+  </qresource>
+  <qresource prefix="Logos">
+    <file>MD.jpg</file>
+    <file>Fishball-mee-2-1080x720.jpg</file>
+    <file>50eb3334-a38c-11e9-9a3c-98259c87fba2_image_hires_152354.jpg</file>
+    <file>18701ebcc29ab5748c81668844_original..jpeg</file>
+    <file>154660.jpg</file>
+    <file>WS_Menu1.jpg</file>
+    <file>WS_Menu2.jpg</file>
+    <file>NS_Menu.jpg</file>
+    <file>MS_Menu.jpg</file>
+    <file>McD_Menu_bf.jpg</file>
+    <file>McD_Menu_reg.jpg</file>
+    <file>CR_Menu.jpg</file>
+    <file>WesternFood_Logo.jpg</file>
+    <file>NoodlesStore_Logo.jpg</file>
+    <file>MalayStore_Logo.jpg</file>
+    <file>McDonald_Logo.jpg</file>
+    <file>ChickenRice_Logo.jpg</file>
+    <file>Closed_Logo.jpg</file>
+  </qresource>
+  <qresource prefix="Heading_Label">
+    <file>Heading_Label_WT.jpg</file>
+    <file>Heading_Label_Op.jpg</file>
+    <file>Heading_Label.jpg</file>
+  </qresource>
+</RCC>
